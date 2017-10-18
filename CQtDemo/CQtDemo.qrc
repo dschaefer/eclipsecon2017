@@ -1,0 +1,5 @@
+<RCC>
+	<qresource prefix="/">
+		<file>CQtDemo.qml</file>
+	</qresource>
+</RCC>
